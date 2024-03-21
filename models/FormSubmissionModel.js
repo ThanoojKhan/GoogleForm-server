@@ -15,7 +15,6 @@ const SubmissionSchema = new Schema({
     },
     value: {
       type: Schema.Types.Mixed,
-      required: true
     }
   }]
 });
